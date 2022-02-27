@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A famous victorie obtained by Sir Thomas Fairfax, against the Lord Hopton. And the Prince his army, at Torrington in the west. 3000. armes taken. 50. colonels, majors, captains, and other officers. 700. common souldiers. 150. horse. 100. barrels of powder. The magazine, and all the enemies bag and baggage. Two trunks of the Lord Hoptons, plate and money taken. The Lord Hopton, the Lord Wentworth, Sir Iohn Digby, Major General Harris, and others fled, and the manner of the pursuit. Torrington church blown up, and the great danger his Excellency Sir Thomas Fairfax escaped. There was also in the said church one hundred barrels of powder, and one hundred and forty of the enemies officers and souldiers, which were all destroyed in the said place. Certified by letters to the Speaker of the House of Commons, on Thursday last, the 19. of this instant February, and the heads thereof published in severall churches about London.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85100</idno>
+            <idno type="STC">Wing F388</idno>
+            <idno type="STC">Thomason E323_7</idno>
+            <idno type="STC">ESTC R200602</idno>
+            <idno type="EEBO-CITATION">99861309</idno>
+            <idno type="PROQUEST">99861309</idno>
+            <idno type="VID">159549</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85100)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159549)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 53:E323[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A famous victorie obtained by Sir Thomas Fairfax, against the Lord Hopton. And the Prince his army, at Torrington in the west. 3000. armes taken. 50. colonels, majors, captains, and other officers. 700. common souldiers. 150. horse. 100. barrels of powder. The magazine, and all the enemies bag and baggage. Two trunks of the Lord Hoptons, plate and money taken. The Lord Hopton, the Lord Wentworth, Sir Iohn Digby, Major General Harris, and others fled, and the manner of the pursuit. Torrington church blown up, and the great danger his Excellency Sir Thomas Fairfax escaped. There was also in the said church one hundred barrels of powder, and one hundred and forty of the enemies officers and souldiers, which were all destroyed in the said place. Certified by letters to the Speaker of the House of Commons, on Thursday last, the 19. of this instant February, and the heads thereof published in severall churches about London.</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B.A.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>February 20. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: the second 6 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649. --  Campaigns --  Early works to 1800.</term>
+               <term>Torrington (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159549:1" rendition="simple:additions"/>
+            <p>
+               <hi>A FAMOVS VICTORIE</hi> OBTAINED <hi>By Sir THOMAS FAIRFAX, againſt the Lord HOPTON, and the PRINCE his Army, at</hi> Tor<g ref="char:EOLhyphen"/>rington <hi>in the</hi> WEST.</p>
+            <list>
+               <item>
+                  <hi>3000.</hi> Armes taken.</item>
+               <item>
+                  <hi>50.</hi> Colonels. Majors, Cap<g ref="char:EOLhyphen"/>tains, and other Officers.</item>
+               <item>
+                  <hi>700.</hi> Common Souldiers.</item>
+               <item>
+                  <hi>150.</hi> Horſe.</item>
+               <item>
+                  <hi>100.</hi> Barrels of Powder.</item>
+               <item>The Magazine, and all the Enemies Bag and Baggage.</item>
+               <item>Two Trunkes of the Lord Hoptons, Plate and Money taken.</item>
+               <item>The Lord Hopton, The Lord Went<g ref="char:EOLhyphen"/>worth, Sir Iohn Digby, Major General Harris, and others fled, and the manner of the purſuit.</item>
+               <item>Torrington Church blown up, and the great danger his Excellency Sir Thomas Fairfax eſcaped.</item>
+            </list>
+            <p>
+               <hi>There was alſo in the ſaid Church one hun<g ref="char:EOLhyphen"/>dred Barrels of Powder, and one hundred and forty of the Enemies Officers and Souldiers, which were all de<g ref="char:EOLhyphen"/>ſtroyed in the ſaid place.</hi>
+            </p>
+            <p>Certified by Letters to the Speaker of the Houſe of Commons, on Thurſday laſt, the <hi>19.</hi> of this inſtant February, and the Heads thereof publiſhed in ſeverall Churches about <hi>London.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>B A. February 20. 1646.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <gap reason="missing" extent="2 pages">
+               <desc>〈2 pages missing〉</desc>
+            </gap>
+            <pb n="2" facs="tcp:159549:2"/>
+            <p>For which purpoſe, the Lord <hi>Hopton</hi> begins to make a great flouriſh, draws what ſtrength both of Horſe and foot he can out of Cornwall, ſends a party to relieve Dunſter Caſtle, fortifies at Chimley, and Mr. Rowley his houſe, and <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>akes up his head quarters at Torrington, neer Barnſtable.</p>
+            <p>From hence he ſends out VVarnings, commanding the Countrey to bring proviſions is to heir Forces, all the youth drives the Cattell, and ſeverall Parties are daily abroad, plundering and ger<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing Horſes to encreaſe their ſtrength; and then intend either with aſſiſtance that is expected from France, or the conjunction of other of the Kings army from about Oxford, to work their own ends, or prolong the wars: The ſtrength they have to effect this, was about 4 or 5000 horſe and foot; which doubtleſſe (having been left at quiet would have encreaſed in a ſhort time, and have become more formidable.</p>
+            <p>Which his Excellency Sir <hi>Thomas Faisfax</hi> perceiving, and being at that time before <hi>Exeter,</hi> he haſtned the perfec<g ref="char:EOLhyphen"/>ting of the Bridg over the River at <hi>Topſam,</hi> finiſhed his Poſts made good the ſeverall Guards and Poſts, and conſults with his Councell of VVarre, and left Exeter block't up, with the Foot commanded by Sir Hardreſſe VValler, and Col. Sheffeilds Regiment of Horſe, and advanced himſelf in per<g ref="char:EOLhyphen"/>ſon with Eight Regiments of Foot, and five of Horſe, to Crediton, and Collonel Pickerings (that was) by Ti<g ref="char:EOLhyphen"/>verton.</p>
+            <p>The 16. inſtant being Munday, his Excellencie marched from Crediton towards Chimleigh, and in his march ſome Parties of ours lighted on ſome of the Enemies, and bad ſome ſmall skirmiſhes, and about 100 in all of the Enemy were taken and brought in priſoners.</p>
+            <p>The Countrey for the moſt part ſhewed themſelves very joyful at his Excellencies approach, and brought in much proviſion to our Army.</p>
+            <pb n="3" facs="tcp:159549:2"/>
+            <p>By ſome of the Countrey we alſo underſtood, that the Prince was yet in Cornwal, and great endeavours were uſed to draw forth the Trayned Bands, but they generally refuſed to go out of their own Country.</p>
+            <p>As for Sir Iohn Greenvil he uſed the like violence againſt the poorer ſort of people, as his Kinſman Sir Richard did, cauſing them to be dragged forth, and tyed two together with Match, and others appointed to drive them on.</p>
+            <p>There was alſo a Gentleman came from Pendennice, with a meſſage from Duke Hamilton, now priſoner in that Caſtle, to deſire a Paſſe for him to go to the King: where<g ref="char:EOLhyphen"/>in he was referred to the Parlirment, to know their plea<g ref="char:EOLhyphen"/>ſure.</p>
+            <p>Thus have I given you the heads of ſeverall Letters out of the VVeſt; but this day came another Letter to our hands, which doth more particularly import the great Vic<g ref="char:EOLhyphen"/>tory obtained againſt the Lord Hopton, which I ſhall give you thus,</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>Another Letter from Sir <hi>Thomas Fairfax</hi> his Quarters.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>THe ſixteenth of this inſtant February, wee marched from Crediton towards Chimleigh, and in our paſſage we had ſome ſinall skirmiſhes with parties of the enemy, that we found abroad, and we took about one hundred pri<g ref="char:EOLhyphen"/>ſoners in ſeverall places: VVhen we came to Chimleigh
+<pb n="4" facs="tcp:159549:3"/>the enemy was gone, and had plundered a great part of the Town:</p>
+                  <p>Our deſigne was to fall on the Lord Hoptons head quar<g ref="char:EOLhyphen"/>ters, which at that time we underſtood were at Torring<g ref="char:EOLhyphen"/>ton, where they kept a ſtrong Guard, and had made ſome ſtrong Fortificstions. But before we came thither, we had Intelligence that about a hundred of the enemy kept a guard in Squire Roules his houſe: wherupon a party of our horſe and Dragoons marched thither, but before they came there the enemy had gotten the alarum, and quitted the Houſe,</p>
+                  <p>After this, we haſted to Torrington, and fell on the ene<g ref="char:EOLhyphen"/>mies quarters, and in an inſtant entred the Town, in which was three thouſand of the enemy, who upon our entrance, threw pown their arms, ſome crying for quarter, others ſhif<g ref="char:EOLhyphen"/>ting for themſelves.</p>
+                  <p>The muſquets lay ſo thicke in the ſtreets, that it was ſome interruption to our Horſe in their march through the ſtreets, a thouſand and upwards were preſently taken up neer together.</p>
+                  <p>The Lord Hopton left his dinner on the Table and fled, leaving behind him his Trunks of Plate and Silver, and other Treaſure: wee had ſome priſoners of the themies in the Church, where was a hundred Barrels of powder, to which they gave fire, which blow'd up the Church and themſelvs, and battered many houſes in the Towne. A ſheet of Lead fell within nine yards of the Generall, and many Tyles and other combuſtable matter, which did much indanger his perſon; but bleſſed be God, he had no hurt at all. The ene<g ref="char:EOLhyphen"/>my is fled towards Barnſtable and Sturton, and our horſe are in purſuit of them, great ſtore of priſoners are taken, and more continually brought in, ſixty came together; but
+<pb n="5" facs="tcp:159549:3"/>as yet I cannot give you a cettain Relation how many wee have taken in all.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Torrington,</hi> 
+                        <date>
+                           <hi>February</hi> 17. 1645.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>From other hands we hear, that there was taken 800. pri<g ref="char:EOLhyphen"/>ſoners, whereof many of quality, and about three thouſand Armes.</p>
+            <p>Me thinks before I leave this ſubject, I ſhould put you in mind how ſeaſonable this and other mercies come to us; For it is ſeldom, that we have ſolemdized any day in thankſ<g ref="char:EOLhyphen"/>giving for one bleſsing on our army, but that very day wee had newes freſh cauſe of thankfulneſſe, As the laſt Day of Thankſgiving for Dartmouth, came the newes of the Sur<g ref="char:EOLhyphen"/>render of Cheſter, and the cay ſet a part commeunerating that mercy, came the Leteers of this great and renowned Victory, which for your better ſatisfaction, I ſhall here in the concluſion give you a perfect Liſt, as followeth.</p>
+            <div type="list_of_spoils_of_battle">
+               <pb n="6" facs="tcp:159549:4"/>
+               <head>In the next place (as neer as I can gather from ſeverall Letters) <hi>I</hi> ſhall give you a Liſt of the whole,</head>
+               <list>
+                  <item>
+                     <hi>3000.</hi> Armes taken.</item>
+                  <item>
+                     <hi>50.</hi> Collonels, Majors, Captains, and other Offi<g ref="char:EOLhyphen"/>cers.</item>
+                  <item>
+                     <hi>700.</hi> Common Souldiers.</item>
+                  <item>
+                     <hi>150.</hi> Horſe.</item>
+                  <item>
+                     <hi>100.</hi> Barrels of Powder, Match proportionable, All the Enemies Bagg and Baggage.</item>
+                  <item>Two Trunks of, plate, and money.</item>
+                  <item>The Lord Hepton fled.</item>
+                  <item>Major General Harris.</item>
+                  <item>Sir John Digby.</item>
+                  <item>Col. Trelange.</item>
+                  <item>The Lord Wentworth.</item>
+                  <item>Major General Web.</item>
+                  <item>The Church blown up, and: <hi>140</hi> of the Ene<g ref="char:EOLhyphen"/>my officers and others in it.</item>
+                  <item>Torrington taken.</item>
+                  <item>Chilmley quitted.</item>
+                  <item>Eſquire Roules houſe quitted.</item>
+                  <item>
+                     <hi>200.</hi> Head of Oxen taken.</item>
+                  <item>
+                     <hi>300.</hi> Sheep.</item>
+                  <item>Great ſtore of Bacon, Cheeſe, and other vic<g ref="char:EOLhyphen"/>tuall, which they had gotten out of the Country.</item>
+                  <item>With other rich prize</item>
+               </list>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
